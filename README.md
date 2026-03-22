@@ -2,6 +2,11 @@
 I have Developed a  system which understand human emotional state,  reason under imperfect and noisy signals,  decide meaningful next actions,  guide users toward better mental states
 
 ### *From Understanding Humans → To Guiding Them*
+<img width="2481" height="1200" alt="image" src="https://github.com/user-attachments/assets/46f80038-86cc-481d-9e48-012e510af4a4" />
+<img width="2117" height="806" alt="image" src="https://github.com/user-attachments/assets/3858b7dc-978c-41d4-b71d-625ea66a947d" />
+<img width="2224" height="813" alt="image" src="https://github.com/user-attachments/assets/9c0a6617-9605-41f4-ad62-ccca20165a91" />
+
+
 
 ---
 
